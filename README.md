@@ -51,6 +51,35 @@ Every contractual employee is entitled to recieve a fixed gross salary.
 - Professional tax: Fixed amount
 - Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
 
+# Overtime Dues Calculations for all Employees:
+
+The employees are entitled to recieve overtime allowance which has been fixed at the rate of INR 400 per hour. The overtime is thus, calculated in batch mode after accepting the number of overtime hours for each employee as input from the user of the system.
+
+# Application Output:
+The following is the series of screenshots depicting how the PSG system functions.
+
+![Screenshot 2024-06-30 132912](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/bc01b636-f929-4efd-af9b-da039d206319)
+
+![Screenshot 2024-06-30 132938](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/4b0f0d60-b438-43fb-a23c-8b6475373207)
+
+![Screenshot 2024-06-30 133006](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/4aaf5bb6-a7db-4bf5-a7fd-73ffca584c69)
+
+![Screenshot 2024-06-30 133053](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/f193beac-e159-46a1-a95e-12e0a565cdf3)
+
+![Screenshot 2024-06-30 133120](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/16c54b65-0c3d-4740-b098-2d91fc157f84)
+
+![Screenshot 2024-06-30 133215](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/3c86c728-9ce0-433a-91d5-ecba2135c683)
+
+![Screenshot 2024-06-30 133240](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/3658a419-521f-4895-9330-1d79a2f4f1c8)
+
+![Screenshot 2024-06-30 133301](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/ce2ad121-1d15-4330-a2f1-4746b49eb330)
+
+![Screenshot 2024-06-30 133345](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/eef61415-3450-4504-8d04-d85027f73f5a)
+
+![Screenshot 2024-06-30 133420](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/86895005-2869-495f-8b50-618b837092e9)
+
+![Screenshot 2024-06-30 133435](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/afa4b279-8e22-4cb3-868c-b47f8a4ff152)
+
 
 
 

@@ -38,16 +38,18 @@ The gross salary of every permanent employee has the following components:
 4. Medical Allowance: A fixed pre-set lump sum amount
 
    The net salary is computed by subtracting from the gross the following:
-   *Provident fund: Calculated as 12% of (Basic + DA)
-   *Professional tax: Fixed amount
-   *Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
+   
+   -Provident fund: Calculated as 12% of (Basic + DA)
+   -Professional tax: Fixed amount
+   -Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
 
 **Salary Calculation for contractual employee**
 Every contractual employee is entitled to recieve a fixed gross salary.
 
    The net salary is computed by subtracting from the gross the following:
-   *Professional tax: Fixed amount
-   *Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
+   
+   -Professional tax: Fixed amount
+   -Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
 
 
 

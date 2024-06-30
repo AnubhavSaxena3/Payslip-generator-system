@@ -48,8 +48,8 @@ Every contractual employee is entitled to recieve a fixed gross salary.
 
    The net salary is computed by subtracting from the gross the following:
    
-   -Professional tax: Fixed amount
-   -Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
+- Professional tax: Fixed amount
+- Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
 
 
 

@@ -14,4 +14,13 @@ The class diagram for the PSG system application is shown below:
 
 ![Screenshot 2024-06-30 145123](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/00a9c6dd-4cee-472b-be87-b9bd4c31fdde)
 
+### 3 lists the various members of the employee class:
 
+employee Class Members:
+![Screenshot 2024-06-30 154036](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/bf0233a9-7235-4447-bd47-7b222d014ecb)
+
+permanent_employee Class Members:
+![Screenshot 2024-06-30 154431](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/9764a7cd-2a76-4c36-adfe-e8c3a4da4a25)
+
+contractual_employee Class Members:
+![Screenshot 2024-06-30 154726](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/78160a6e-2bfc-4e6a-9c97-cfef723e154c)

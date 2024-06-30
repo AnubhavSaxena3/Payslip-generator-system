@@ -27,3 +27,28 @@ The class diagram for the PSG system application is shown below:
 **contractual_employee Class Members:**
 
 ![Screenshot 2024-06-30 154726](https://github.com/AnubhavSaxena3/Payslip-generator-system/assets/113455210/78160a6e-2bfc-4e6a-9c97-cfef723e154c)
+
+# Program Logic
+**Salary Calculation for permanent employee**
+
+The gross salary of every permanent employee has the following components:
+1. Basic
+2. Dearness allowness : Calculated as a pre-set percentage of basic.
+3. House rent allowance: Calculated as a pre-set percentage of basic
+4. Medical Allowance: A fixed pre-set lump sum amount
+
+   The net salary is computed by subtracting from the gross the following:
+   *Provident fund: Calculated as 12% of (Basic + DA)
+   *Professional tax: Fixed amount
+   *Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
+
+**Salary Calculation for contractual employee**
+Every contractual employee is entitled to recieve a fixed gross salary.
+
+   The net salary is computed by subtracting from the gross the following:
+   *Professional tax: Fixed amount
+   *Income tax:Fixed amount(The tax computations are usually finalized at the end of each financial year)
+
+
+
+
